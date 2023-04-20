@@ -1,4 +1,4 @@
-# 😸 About the project App to do (Rocketseat)
+# 😸 About the project To do list app
 
 create an application to train what you have learned so far in React Native.
 
