@@ -19,7 +19,7 @@ The application's features are:
 
 ## Interface
 <p align="center">
-<img src="https://github.com/poliveira13/appToDo/blob/main/.github/assets/Screenshot_1642689421.png" width="20%" />
-<img src="https://github.com/poliveira13/appToDo/blob/main/.github/assets/Screenshot_1642689477.png" width="20%" />
-<img src="https://github.com/poliveira13/appToDo/blob/main/.github/assets/Screenshot_1642689491.png" width="20%" />
+<img src="https://github.com/poliveira13/to-do-list-app/blob/main/.github/assets/Screenshot_1642689421.png" width="20%" />
+<img src="https://github.com/poliveira13/to-do-list-app/blob/main/.github/assets/Screenshot_1642689477.png" width="20%" />
+<img src="https://github.com/poliveira13/to-do-list-app/blob/main/.github/assets/Screenshot_1642689491.png" width="20%" />
 </p>
